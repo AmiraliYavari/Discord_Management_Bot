@@ -1,4 +1,4 @@
-# 🤖 Discord Management Bot
+# 🤖 Discord Management Bot - Beta
 
 یک بات مدیریتی کامل برای دیسکورد با قابلیت‌های مدیریت پیام، ضد فحش، ضد اسپم و لاگ‌گیری.
 
